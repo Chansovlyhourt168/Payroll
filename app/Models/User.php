@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace FtSda3\Payroll\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;

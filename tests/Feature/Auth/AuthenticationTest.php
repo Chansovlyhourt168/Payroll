@@ -2,8 +2,8 @@
 
 namespace Tests\Feature\Auth;
 
-use App\Models\User;
-use App\Providers\RouteServiceProvider;
+use FtSda3\Payroll\Models\User;
+use FtSda3\Payroll\Providers\RouteServiceProvider;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
 

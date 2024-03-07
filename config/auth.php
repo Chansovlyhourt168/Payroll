@@ -62,7 +62,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => App\Models\User::class,
+            'model' => FtSda3\Payroll\Models\User::class,
         ],
 
         // 'users' => [

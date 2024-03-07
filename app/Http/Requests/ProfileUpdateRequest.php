@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Requests;
+namespace FtSda3\Payroll\Http\Requests;
 
-use App\Models\User;
+use FtSda3\Payroll\Models\User;
 use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Validation\Rule;
 

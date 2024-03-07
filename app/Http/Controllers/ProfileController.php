@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace FtSda3\Payroll\Http\Controllers;
 
-use App\Http\Requests\ProfileUpdateRequest;
+use FtSda3\Payroll\Http\Requests\ProfileUpdateRequest;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
